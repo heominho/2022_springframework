@@ -1,0 +1,10 @@
+
+package com.inhatc.domain;
+
+public class PageMaker {
+	
+	private int totalCount;
+	private int startPage;
+	private int endPage;
+	
+}
